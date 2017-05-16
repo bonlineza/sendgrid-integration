@@ -1,0 +1,15 @@
+{
+    "name": "bonlineza/sendgrid",
+    "description": "Custom send grid integration by bonline",
+    "type": "project",
+    "require": {
+        "sendgrid/sendgrid": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "B Online",
+            "email": "robert@bonline.co.za"
+        }
+    ]
+}
